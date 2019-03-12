@@ -1,0 +1,4 @@
+abrir pagina login para acceder al sistema
+
+user:josue.hdez_94@outlook.com
+pass:aiduald1
